@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	ua "github.com/mileusna/useragent"
+	ua "github.com/ielevenliu/useragent"
 )
 
 var testTable = [][]string{
